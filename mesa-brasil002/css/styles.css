@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    
+body{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    }
+ 
+h1{
+    background-color: #184A8C;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:white ;
+}
+ 
+tr,table,td{background-color:#3FA646;
+    text-align:center;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a{
+    background-color:#57C6F2;
+    color:rgb(17, 16, 16);
+   }
+
+   h2{color:black ;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+   
+    
+p{color:#184A8C}
+ 
+img{ display: block;
+    margin: auto;
+}
+ 
+h3{
+    
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#F2780C;
+}
+ 
+h4{
+    background-color: beige;
+    justify-content: center;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#3FA646;
+}
+
+h5{
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#F2BD1D ;
+}
+
+ul,li{
+    color:#020202;
+    margin: 10px;;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin:right 50px;
+    text-align: center;
+}
+
+     
+h1{
+    background-color: #184A8C;
+    justify-content: center;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:white ;
+}
+ 
+tr,table,td{background-color:#3FA646;
+    text-align:center;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a{background-color:#57C6F2;
+    color:rgb(17, 16, 16);
+   }
+
+   h2{
+    color:black ;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    
+    
+
+p{color:#184A8C}
+ 
+img{ 
+    display: block;
+    margin: auto;
+}
+ 
+h3{
+
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#F2780C;
+}
+ 
+h4{
+    background-color: beige;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#3FA646;
+}
+
+h5{
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#F2BD1D;
+}
+ul,li{
+    color:#020202;
+    margin: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin:right 50px;
+    text-align: left;
+}
+div{ color:#f01212;}
+
+
+
